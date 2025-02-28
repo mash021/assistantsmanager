@@ -1,23 +1,21 @@
 # 🤖 Assistants Manager
 
-<div dir="rtl">
+## 📌 About The Project
 
-## 📌 درباره پروژه
+Assistants Manager is a powerful and flexible platform for managing and organizing AI assistants. This project is designed to simplify the process of managing, monitoring, and optimizing the performance of AI assistants.
 
-سیستم مدیریت دستیارها یک پلتفرم قدرتمند و انعطاف‌پذیر برای مدیریت و سازماندهی دستیارهای هوش مصنوعی است. این پروژه با هدف ساده‌سازی فرآیند مدیریت، نظارت و بهینه‌سازی عملکرد دستیارهای هوش مصنوعی طراحی شده است.
+## 🌟 Key Features
 
-## 🌟 ویژگی‌های اصلی
+- 🎯 Integrated Assistant Management
+- 📊 Advanced Analytics Dashboard
+- 🔄 Automatic Synchronization
+- 🔐 Advanced Security
+- 📱 Responsive User Interface
+- 🌐 Multi-language Support
+- 📈 Advanced Reporting
+- 🤝 Team Collaboration
 
-- 🎯 مدیریت یکپارچه دستیارها
-- 📊 داشبورد تحلیلی پیشرفته
-- 🔄 همگام‌سازی خودکار
-- 🔐 امنیت پیشرفته
-- 📱 رابط کاربری واکنش‌گرا
-- 🌐 پشتیبانی چند زبانه
-- 📈 گزارش‌گیری پیشرفته
-- 🤝 قابلیت همکاری تیمی
-
-## 🛠️ تکنولوژی‌های استفاده شده
+## 🛠️ Technologies Used
 
 - **Frontend**: React.js, TypeScript, Material-UI
 - **Backend**: Node.js, Express.js
@@ -26,9 +24,7 @@
 - **CI/CD**: GitHub Actions
 - **Cloud**: AWS
 
-## 🚀 نصب و راه‌اندازی
-
-</div>
+## 🚀 Installation & Setup
 
 ```bash
 # Clone the repository
@@ -44,38 +40,34 @@ npm install
 npm run dev
 ```
 
-<div dir="rtl">
+## 📝 How to Contribute
 
-## 📝 نحوه مشارکت
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
-1. پروژه را Fork کنید
-2. یک Branch جدید ایجاد کنید (`git checkout -b feature/amazing-feature`)
-3. تغییرات خود را Commit کنید (`git commit -m 'Add amazing feature'`)
-4. Branch خود را Push کنید (`git push origin feature/amazing-feature`)
-5. یک Pull Request ایجاد کنید
+## 📄 License
 
-## 📄 مجوز
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-این پروژه تحت مجوز MIT منتشر شده است. برای اطلاعات بیشتر فایل [LICENSE](LICENSE) را مطالعه کنید.
+## 👥 Development Team
 
-## 👥 تیم توسعه
+- [Mohammad Ali Sharifi](https://github.com/mash021) - Lead Developer
 
-- [Mohammad Ali Sharifi](https://github.com/mash021) - توسعه‌دهنده اصلی
+## 📞 Contact Us
 
-## 📞 ارتباط با ما
+- Email: mohammadalisharifi021@gmail.com
+- Website: [Under Development]
+- Telegram: [@mash021](https://t.me/mash021)
 
-- ایمیل: mohammadalisharifi021@gmail.com
-- وبسایت: [در حال توسعه]
-- تلگرام: [@mash021](https://t.me/mash021)
+## 🙏 Acknowledgments
 
-## 🙏 قدردانی
-
-از تمامی مشارکت‌کنندگان و حامیان این پروژه صمیمانه سپاسگزاریم.
-
-</div>
+We sincerely thank all contributors and supporters of this project.
 
 ---
 
 <div align="center">
-⭐️ اگر از این پروژه خوشتان آمده، لطفاً به آن ستاره دهید ⭐️
+⭐️ If you found this project helpful, please give it a star ⭐️
 </div>
